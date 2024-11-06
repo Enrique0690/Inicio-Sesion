@@ -1,0 +1,20 @@
+{
+    "welcome": "Bienvenido",
+    "login": "Entrar",
+    "logout": "Cerrar sesión",
+    "new_order": "Nuevo pedido",
+    "view_tables": "Ver mesas",
+    "view_cashier": "Ver caja",
+    "uniqueCode": "Iniciar con Código Único",
+    "createAccount": "Crear Cuenta",
+    "loginWith": "Entrar con",
+    "selectCompany": "Seleccione una empresa",
+    "forgotPassword": "Olvide mi contraseña",
+    "signUp": "Registrarse",
+    "username": "Nombre de usuario",
+    "password": "Contraseña",
+    "invalidCredentials": "Usuario o contraseña incorrectos",
+    "fieldsRequired": "Todos los campos son obligatorios",
+    "loginError": "Error al iniciar sesión"
+  }
+  

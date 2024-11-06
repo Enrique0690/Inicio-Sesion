@@ -1,0 +1,20 @@
+{
+    "welcome": "Welcome",
+    "login": "Login",
+    "logout": "Logout",
+    "new_order": "New Order",
+    "view_tables": "View Tables",
+    "view_cashier": "View Cashier",
+    "uniqueCode": "Start with Unique Code",
+    "createAccount": "Create Account",
+    "loginWith": "Login with",
+    "selectCompany": "Select Company",
+    "forgotPassword": "Forgot Password",
+    "signUp": "Sign Up",
+    "username": "Username",
+    "password": "Password",
+    "invalidCredentials": "Incorrect username or password",
+    "fieldsRequired": "All fields are required",
+    "loginError": "Error when logging in"
+  }
+  
